@@ -1,0 +1,7 @@
+# Ignore TMC test runners and internal data
+tmc/
+test/
+tmcdata/
+.tmc*
+__pycache__/
+*.pyc
